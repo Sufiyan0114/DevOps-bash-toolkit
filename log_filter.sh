@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Author: Shaikh Sufiyan
-# # Title: Log Filter Script
+# Title: Log Filter Script
 # Description: A script to create a backup of log files with proper logging and error handling.
 # Version: 1.0.2
 # Note:
